@@ -2,12 +2,12 @@
 
 ---?image=https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2015/meetingfacet.jpg&size=contain
 
----?image=https://www.conceptdraw.com/How-To-Guide/picture/&size=containPYRAMID-Knowledge-hierarchy-triangle-diagram.png
+---?image=https://www.conceptdraw.com/How-To-Guide/picture/PYRAMID-Knowledge-hierarchy-triangle-diagram.png&size=contain
 # Pyramid Structure
 
 @ol
 
-* Just a Snappy Title @note[10 secs]
+* Snappy Title @note[10 secs]
 * Lightning Talk / Ignite @note[5-10 mins
 * Conference Session @note[40 mins]
 * Deep Dive @note[3 hours...]
@@ -31,7 +31,7 @@ Note:
 
 ---
 
-# A Snappy Title
+# A Snappy Title...
 
 Note:
 
@@ -47,7 +47,7 @@ There are many ways to present my ideas, this is the best way for me
 
 ---
 
-# Lightning Talk / Ingite Session
+# Lightning Talk / Ingite Session...
 
 Note:
  
@@ -59,7 +59,7 @@ Note:
 
 ---
 
-# Conference Session
+# Conference Session...
 
 Note:
 
@@ -71,7 +71,7 @@ Note:
 
 ---
 
-# Deep Dive
+# Deep Dive...
 
 Note:
 
@@ -83,7 +83,7 @@ Note:
 
 ---
 
-# Workshop
+# Workshop...
 
 Note:
 
