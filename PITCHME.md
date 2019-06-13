@@ -91,3 +91,11 @@ Note:
 * Doing it - moving around
 
 ---
+
+# Useful Links...
+
+@ul
+
+  * [@vmbrasser's Collection of Public Speaking resources](https://github.com/vmbrasseur/Public_Speaking)
+
+@ulend
