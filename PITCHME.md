@@ -2,8 +2,8 @@
 
 ---?image=https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2015/meetingfacet.jpg&size=contain
 
---- 
-# Structure
+---?image=https://www.conceptdraw.com/How-To-Guide/picture/&size=containPYRAMID-Knowledge-hierarchy-triangle-diagram.png
+# Pyramid Structure
 
 @ol
 
@@ -21,6 +21,16 @@ TODO: Picture of a spiral under the above.
 
 ---
 
+# Ignore Tips
+
+Note:
+
+1 thing to know
+
+* Ignore everyone
+
+---
+
 # A Snappy Title
 
 Note:
@@ -34,16 +44,6 @@ There are many ways to present my ideas, this is the best way for me
 (Fail)
 
 (Improve)
-
----
-
-## Ignore Tips
-
-Note:
-
-1 thing to know
-
-* Ignore everyone
 
 ---
 
