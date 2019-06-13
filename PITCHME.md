@@ -21,7 +21,7 @@ TODO: Picture of a spiral under the above.
 
 ---
 
-# Warning!!!</br>Ignore All Tips
+# !!!Warning!!!</br>Ignore All Tips
 
 Note:
 
@@ -50,18 +50,6 @@ There are many ways to present my ideas, this is the best way for me
 # Lightning Talk / Ingite Session
 
 Note:
-
-@ul
-
-* What's it about?
-* Where to present it?
-* How to write it?
-* How to practice it?
-* How to present it? 
-
-@ulend
-
-5 things to know:
  
 * Idea - info share (how-to - esp. for beginners, here's a cool thing I/someone else made, war story/case study), change minds.
 * Where? - int [friday, last-thursday, LOD, away-day], ext [meetup, conf, open spaces - zero work!], type [lightning, session, deep dive, BoF, workshop]
