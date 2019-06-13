@@ -37,7 +37,19 @@ There are many ways to present my ideas, this is the best way for me
 
 ---
 
+## Ignore Tips
+
+Note:
+
+1 thing to know
+
+* Ignore everyone
+
+---
+
 # Lightning Talk / Ingite Session
+
+Note:
 
 @ul
 
@@ -49,8 +61,6 @@ There are many ways to present my ideas, this is the best way for me
 
 @ulend
 
-Note:
-
 5 things to know:
  
 * Idea - info share (how-to - esp. for beginners, here's a cool thing I/someone else made, war story/case study), change minds.
@@ -58,16 +68,6 @@ Note:
 * Write it - There are many ways (blog, post-its, slides, etc.), timings
 * Practicing it - say it out loud, go slowly, 
 * Doing it - As the room fills up, power stance (standing legs a little apart), mic-tips, go even slower
-
----
-
-## Ignore Tips
-
-Note:
-
-1 thing to know
-
-* Ignore everyone
 
 ---
 
@@ -85,6 +85,8 @@ Note:
 
 # Deep Dive
 
+Note:
+
 * Your voice - emphasise it, keep it authentic
 * Where? - Where to submit to? Conference season.
 * Write it - Your title, Your abstract, Other supporting information, More info from behind the curtain, Font size, Accessibility, tools (Gitpitch, Google Slides, PowerPoint / Keynote, Templates, Mind maps / index cards), Co-presenting.
@@ -95,7 +97,9 @@ Note:
 
 # Workshop
 
+Note:
+
 * Write it - doing talks again and again, co-presenting deeper dive, more complicated structures and styles (less/no words, no slides, no notes), types (Humorous/Call to Action/Socratic/Story/Story after Story/Marc Anthony)
 * Doing it - moving around
 
---
+---
