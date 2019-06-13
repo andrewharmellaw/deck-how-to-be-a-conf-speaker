@@ -7,7 +7,7 @@
 
 @ol
 
-* A Snappy Title @note[10 secs]
+* Just a Snappy Title @note[10 secs]
 * Lightning Talk / Ignite @note[5-10 mins
 * Conference Session @note[40 mins]
 * Deep Dive @note[3 hours...]
@@ -21,7 +21,7 @@ TODO: Picture of a spiral under the above.
 
 ---
 
-# Ignore Tips
+# Warning!!!</br>Ignore All Tips
 
 Note:
 
