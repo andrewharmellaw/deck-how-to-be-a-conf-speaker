@@ -7,7 +7,7 @@
 
 @ol
 
-* Snappy Title @note[10 secs]
+* Abstract @note[10 secs]
 * Lightning Talk / Ignite @note[5-10 mins
 * Conference Session @note[40 mins]
 * Deep Dive @note[3 hours...]
@@ -31,7 +31,7 @@ Note:
 
 ---
 
-# A Snappy Title...
+# Abstract...
 
 Note:
 
@@ -44,6 +44,16 @@ There are many ways to present my ideas, this is the best way for me
 (Fail)
 
 (Improve)
+
+---
+
+# !!!Warning!!!</br>Obey the Golden Rule
+
+Note:
+
+* Do unto others as you want them to do unto you.
+* Don't be a jerk. 
+* Always be humble and positive.
 
 ---
 
