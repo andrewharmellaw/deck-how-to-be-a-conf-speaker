@@ -47,7 +47,7 @@ There are many ways to present my ideas, this is the best way for me
 
 ---
 
-# !!!Warning!!!</br>Obey the Golden Rule
+# !!!Remember!!!</br>Obey the Golden Rule
 
 Note:
 
